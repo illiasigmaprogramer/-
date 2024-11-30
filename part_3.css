@@ -1,0 +1,62 @@
+/* Сторінка чотири */
+
+.navigation{
+    top: 300%;
+}
+
+.m{
+    margin-left:5%;
+    font-size: 25px;
+    margin-top: 15%;
+    color: rgb(25, 81, 23);
+}
+
+.big-text{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(25, 81, 23);
+}
+
+.t{
+    margin-top: 160%;
+    margin-left: 0%;
+    text-align: center;
+}
+
+.main-container4{
+position: absolute;
+width: 20%;
+height: auto;
+left: 40%;
+top: 50%;
+} 
+
+.main-container5{
+position: absolute;
+width: 20%;
+height: auto;
+left:70%;
+top: 50%;
+}
+
+.main-container6{ 
+position: absolute;
+width: 20%;
+top: 150%;
+left: 10%;
+}
+
+.main-container7{
+position: absolute;
+width: 20%;
+top: 150%;
+left: 60%;
+}
+
+.main-container8{
+position: absolute;
+display: block; 
+width: 60%;
+margin-left: 20%;
+top: 330%;
+}

@@ -1,0 +1,81 @@
+/* Сторінки 5,6.7 */
+
+.image{
+    width: 20%;
+    margin: auto;
+    display: block;
+}
+
+.ss{
+    text-align: center;
+    font-size: 25px;
+    margin-bottom: 100px;
+    color: rgb(25, 81, 23);
+    margin-left: 0px;
+}
+
+.ven{
+    width: 40%;
+    margin: auto;
+    display: block;
+}
+
+.image-kasha{
+    width: 40%;
+    margin: auto;
+    display: block;
+    border-radius: 10px;
+    margin-top: 70px;
+}
+
+.list{
+    margin: 50px;
+    color:rgb(34, 87, 41);
+}
+
+.ggg{
+    font-size: x-small;
+}
+
+.textL{
+    color: rgb(25, 81, 23);
+    font-size: 25px;
+   
+}
+
+.landing-form-container {
+    width: 95%;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 10%;
+}
+.form-title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.form-group {
+    margin-bottom: 15px;
+}
+.form-control {
+    height: 45px;
+    border-radius: 5px;
+    width: 97%;
+}
+.btn-submit {
+    width: 97%;
+    height: 60px;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+    font-size: 37px;
+}
+.btn-submit:hover {
+    background-color: #0056b3;
+}

@@ -1,0 +1,65 @@
+/* Сторінка два */
+
+.image{
+    width: 20%;
+    margin: auto;
+    display: block;
+}
+
+/* Сторінка три */
+
+.p{
+    width: 350px;
+    height: 170px;
+    display: block;
+    margin-left: 4%;
+}
+
+.second-text{
+    font-size: xx-small;
+}
+
+.g{
+   margin-left: 5%;
+   font-size: 25px;
+   margin-top: 3%;
+   color: rgb(25, 81, 23);
+}
+
+.q{
+    font-size: 25px;
+    margin-left: 3%;
+    margin-top: 3%;
+    color: rgb(25, 81, 23);
+}
+
+.w{
+    font-size: 25px;
+    margin-left: 6%;
+    margin-top: 3%;
+    color: rgb(25, 81, 23);
+}
+
+.main-container1{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    left: 5%;
+    top: 35%;
+}
+    
+.main-container2{
+position: absolute;
+width: 100%;
+height: auto;
+left:30%;
+top: 35%;
+}
+
+.main-container3{
+position: absolute;
+width: 100%;
+height: auto;
+left: 55%;
+top: 35%;
+}
